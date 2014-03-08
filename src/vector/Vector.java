@@ -24,3 +24,4 @@ public class Vector {
   }
     
 }
+//muy bueno pero para que es esto  int vec[]= new int[5];
